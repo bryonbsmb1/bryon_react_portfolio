@@ -1,0 +1,13 @@
+.Nav {
+    background-color:rgb(25, 0, 0);
+color: rgb(15, 31, 175) !important;
+}
+
+.NavSub{
+    color: #0f318f !important;
+
+}
+
+.navbar-toggler-icon {
+    filter: invert(.6);
+}
