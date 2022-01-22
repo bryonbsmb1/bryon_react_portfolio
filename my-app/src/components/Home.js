@@ -14,7 +14,7 @@ function Home() {
         <br></br>
         <div>
         
-        <img style={{  width:"30%", height: "auto", borderRadius:"50% 50% 0% 50%"}} src={me} alt="bryon ball"/>
+        {/* <img style={{  width:"30%", height: "auto", borderRadius:"50% 50% 0% 50%"}} src={} alt="bryon ball"/> */}
         <br></br>
         
         </div>

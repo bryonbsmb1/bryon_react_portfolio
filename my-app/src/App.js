@@ -9,21 +9,26 @@ import Portfolio from "../src/components/Portfolio"
 
 
 function App() {
-  return(
+  return(<>
+
+
+<Nav />
     <Router>
       <Routes>
-      <div>
-        <Nav />
+      
+        
         <Route   path="/" element={<Home/>}/>
         <Route   path="/contact" element={<Contact/>} />
         <Route   path="/portfolio" element={<Portfolio/>} />
         <Footer />
-      </div>
+      
       
         
 
       </Routes>
     </Router>
+
+    </>
   );
 }
 

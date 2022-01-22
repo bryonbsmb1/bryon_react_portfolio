@@ -5,7 +5,9 @@ import {Navbar , Nav} from "react-bootstrap"
 
 
 function NavReturn() {
-  return(
+  return(<>
+
+
     <div style={{paddingTop:"70px"}}>
 
     <Navbar  className={"Nav"} fixed="top"  expand="lg">
@@ -22,7 +24,7 @@ function NavReturn() {
   </Navbar.Collapse>
 </Navbar>
     </div>
-    
+    </>
   );
 }
 
