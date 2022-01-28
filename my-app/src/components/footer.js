@@ -1,19 +1,15 @@
-import React from "react";
-import {ModalFooter} from "react-bootstrap"
+import React from 'react';
 
 
+const Footer = () => {
 
-function Footer() {
-  return(
-    <div>
-
-    <ModalFooter bg="light" expand="lg">
-
-HELLO
-</ModalFooter>
-    </div>
-    
+  return (
+    <footer className="w-100 mt-auto bg-secondary p-4">
+        <div>
+          <p>made by Sarah Maskill</p>
+      </div>
+    </footer>
   );
-}
+};
 
 export default Footer;
