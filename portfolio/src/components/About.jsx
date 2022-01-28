@@ -9,7 +9,7 @@ function About() {
                         Welcome to my portfolio page where you can see some of my work. Just graduated from the Michigan State University Full Stack Bootcamp and looking forward to a rewarding career in Tech. Thank you for taking a look at my MERN App. 
                         </p>
                         <p>
-                        About Bryon
+                        
                         </p>
                     </div>
                 </div>
