@@ -13,7 +13,7 @@ function Project() {
                     <section className="showcase-right">
                         <div className="showcase-right-text">
                             <h3>Timed Quiz</h3>
-                            <p>In this project, I designed a timed coding quiz challenge. I used bootstrap, html and javascript to accomplish the requirements needed.</p>
+                            <p>In this project,a timed code quiz was created. Tech used was Css, HTML and JavaScript to accomplish the requirements needed.</p>
                             <a href="https://bryonbsmb1.github.io/bballCodeQuiz/"></a>
                         </div>
                         <div className="showcase-right-img">
