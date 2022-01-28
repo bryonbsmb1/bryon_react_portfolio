@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.js": "/my-app/static/js/main.4b8b39f9.js",
+    "static/media/weather-app.png": "/my-app/static/media/weather-app.68681e5e3b84f123cd6b.png",
+    "static/media/timed-quiz.png": "/my-app/static/media/timed-quiz.7c8c1ae66424b54bce32.png",
+    "static/media/work-scheduler.png": "/my-app/static/media/work-scheduler.bed4285afd0e37b6c27c.png",
+    "static/media/password-generator.png": "/my-app/static/media/password-generator.2ab2edc14e0e539a01bf.png",
+    "static/media/resume.pdf": "/my-app/static/media/resume.67cbbc30c26b8e07e004.pdf",
+    "index.html": "/my-app/index.html",
+    "main.4b8b39f9.js.map": "/my-app/static/js/main.4b8b39f9.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.4b8b39f9.js"
+  ]
+}
