@@ -1,4 +1,4 @@
-import resume from "./resume.pdf";
+import resume from "../components/resume.pdf";
 function Resume() {
     return (
             <div className="container">

@@ -6,7 +6,7 @@ function About() {
                     <div className="col-lg-5">
                         <h1 className="font-weight-light">About</h1>
                         <p>
-                        Welcome to my portfolio page where you can see some of my work. Just graduated from the Michigan State University Full Stack Bootcamp and looking forward to a rewarding career in Tech. Thank you for taking a look at my MERN App. 
+                        Welcome to my portfolio page where you can see some of my work. Recent graduate from the Michigan State University Full Stack Bootcamp and looking forward to a rewarding career in Tech. Thank you for taking a look at my MERN App. 
                         </p>
                         <p>
                         
